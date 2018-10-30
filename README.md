@@ -28,15 +28,5 @@ The Amazon Fine Food Reviews dataset consists of reviews of fine foods from Amaz
 
 **Note :**
     Here we are purposefully ignoring reviews with score equals to 3 as there are Neutral , and if the score is above 3 then the  review will be set to "Positive" , otherwise it will be set to "Negative".  
-    
-**Reviews will be converted into Vector Representations like :**
-   
-    1) Bag of words 
-    2) TF-IDF
-    3) Avgw2vec
-    4)TF-IDF Weighted W2Vec
+
            
-**Note** : **Polarity Colors **
-           
-     Positive Reviews : Blue
-     Negative Reviews : Red
