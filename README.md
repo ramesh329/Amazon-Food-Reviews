@@ -24,7 +24,7 @@ The Amazon Fine Food Reviews dataset consists of reviews of fine foods from Amaz
     9) Text - text of the review
 
 **Objective:**
-    t-sne visualization of the Amazon Reviews using polarity based coloring.
+   # Classification of Amazon-Reviews into two categories (Positive or Negative) Using LSTM
 
 **Note :**
     Here we are purposefully ignoring reviews with score equals to 3 as there are Neutral , and if the score is above 3 then the  review will be set to "Positive" , otherwise it will be set to "Negative".  
